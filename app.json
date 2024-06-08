@@ -16,7 +16,7 @@
     "ENVIRONMENT": {
       "description": "لا تغير شئ سيبها",
       "required": true,
-      "value": "ANYTHING"
+      "value": "https://github.com/noooooorrrrf/Ccccccc"
     },
     "API_ID": {
       "description": "ضع هنا الايبي ايدي من هنا ‹ my.telegram.org ›",
